@@ -1,0 +1,40 @@
+.DivComentario1{
+
+    width: 80%;
+    height: 250px; 
+    background-color: rgb(244, 237, 237);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px;
+}
+.DivComentario2{
+
+    width: 90%;
+    min-height: 200px;
+    height: auto;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex
+
+
+}
+.DivComentario2 p {
+
+color: rgb(0, 0, 0);
+height: auto;
+width: 100%;
+max-width: 90%;
+word-wrap: break-word; 
+white-space: wrap; 
+}
+.DivBotones{
+
+    display: flex;
+    gap:20px;
+
+    
+}
